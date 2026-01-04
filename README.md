@@ -1,2 +1,5 @@
-# js-number-guess-game
-Simple number guessing game using JavaScript
+# JS Number Guess Game
+
+A simple number guessing game built using vanilla JavaScript.
+
+This project demonstrates random number generation and conditional logic.
